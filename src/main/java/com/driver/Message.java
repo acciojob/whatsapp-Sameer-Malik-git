@@ -5,6 +5,7 @@ import java.util.Date;
 public class Message {
     private int id;
     private String content;
-    private Date timestamp;
+    private Date timestamp;,,,,,
 
 }
+
